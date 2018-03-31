@@ -24,7 +24,7 @@ fi
 # HARDWARE Print to "$OF" /////////////////////////////////////// 
 echo "--- Hardware ---" > "$OF"
 echo "CPU:$CPU" >> "$OF"
-echo "RAM: $RAM" >> "$OF"
+echo "RAM: $RAM KB" >> "$OF"
 echo "Motherboard: $MB" >> "$OF"
 echo "System Serial Number: $SSN" >> "$OF"
 
